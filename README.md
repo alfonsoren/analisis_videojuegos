@@ -74,9 +74,6 @@ Se probaron dos hipótesis estadísticas:
 **📎 Herramientas utilizadas:**  
 Python · pandas · matplotlib · seaborn · scipy · Jupyter Notebook
 
-**📅 Fecha de entrega:** [Diciembre, 2016]
-
-**📌 Nota:** Los datos de 2016 podrían estar incompletos; se consideró en el análisis.
 
 ---
 
